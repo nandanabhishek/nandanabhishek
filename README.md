@@ -21,6 +21,6 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&count_private=true&theme=radical&line_height=30">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanabhishek&count_private=true&theme=blueberry&line_height=30&hide=CSS,HTML"
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&count_private=true&theme=radical&line_height=27"> <br>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanabhishek&count_private=true&theme=buefy&hide=CSS,HTML"
 </p>
