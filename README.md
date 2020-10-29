@@ -22,6 +22,5 @@
 
 <p align = "center">
   <img src= "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme=radical&line_height=30">
-  [![Abhishek Nandan's github stats](https://github-readme-stats.vercel.app/api?username=nandanabhishek)](https://github.com/nandanabhishek/github-readme-stats)
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nandanabhishek&hide=CSS,HTML">
 </p>
