@@ -22,6 +22,16 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme=dark" >
   <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme=radical" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme=merko" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme=gruvbox" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme=tokyonight" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme=onedark" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme=cobalt" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme= synthwave" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme= highcontrast" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&theme= dracula" >
+  
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nandanabhishek&hide=CSS,HTML">
 </p>
