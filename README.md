@@ -11,10 +11,9 @@
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ramanaditya/beginners/master/octocat.png" width="30%">
   <br><br>
   <samp>
-    :wave: Hi! I build <b>Softwares</b>
+    :wave: Hi! I am <b>Abhishek Nandan</b> :heart: <em>Open Source Enthusiast</em> :octocat: <br><br>
   </samp>
 </p>
 
