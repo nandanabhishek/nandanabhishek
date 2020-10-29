@@ -5,3 +5,10 @@
   <a href="https://www.linkedin.com/in/nandanabhishek/" target="_blank"><img src="https://img.shields.io/badge/-nandanabhishek-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandanabhishek/" width="13.5%"/></a>
   <a href="mailto:abhisheknandan00@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-abhisheknandan00@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abhisheknandan00@gmail.com" width="25%"/></a>
 </p>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nandanabhishek&hide=CSS,HTML">
+</p>
