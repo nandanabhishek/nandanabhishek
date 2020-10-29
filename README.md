@@ -1,4 +1,14 @@
 <h1 align="center"> Abhishek Nandan </h1>
+<hr>
+<p align="center">
+  <samp>
+    :wave: Hi! I am <b>Abhishek Nandan</b>
+    <br> :heart: <em>Open Source</em> :octocat: <br><br>
+  </samp>
+</p>
+
+<hr>
+
 <p align="center">
   <a href="https://twitter.com/_abhisheknandan" target="_blank"><img src="https://img.shields.io/badge/-@_abhisheknandan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_abhisheknandan" width="17%"/></a>
   <a href="https://gitlab.com/nandanabhishek" target="_blank"><img src="https://img.shields.io/badge/-@nandanabhishek-292961?style=flat&labelColor=292961&logo=Gitlab&link=https://gitlab.com/nandanabhishek" width="16%"/></a>
