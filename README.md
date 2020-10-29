@@ -1,12 +1,5 @@
 <h1 align="center"> Abhishek Nandan </h1>
 
-<p align="center">
-  <samp>
-    :wave: Hi! I am <b>Abhishek Nandan</b>
-    <br> :heart: <em>Open Source</em> :octocat: <br><br>
-  </samp>
-</p>
-
 <br>
 
 <p align="center">
@@ -17,6 +10,13 @@
 </p>
 
 <br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ramanaditya/beginners/master/octocat.png" width="30%">
+  <br><br>
+  <samp>
+    :wave: Hi! I build <b>Softwares</b>
+  </samp>
+</p>
 
 
 <br>
