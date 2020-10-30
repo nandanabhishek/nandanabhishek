@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nandanabhishek/Data-Structures"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nandanabhishek&repo=Data-Structures"></a>
+  <a href="https://github.com/nandanabhishek/Data-Structure"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nandanabhishek&repo=Data-Structure"></a>
   </p>
