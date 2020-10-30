@@ -16,7 +16,7 @@
 <p align="center">
   <br><br>
   <samp>
-    :wave: Hi! I am <b>Abhishek Nandan</b> :heart: <em>Open Source Enthusiast</em> :octocat: <br><br>
+    :wave: Hi! I am <b>Abhishek Nandan </b> :heart: <em> Open Source Enthusiast</em> :octocat: <br><br>
   </samp>
 </p>
 
@@ -27,3 +27,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&count_private=true&theme=radical&line_height=27">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanabhishek&count_private=true&theme=solarized-light&hide=HTML,CSS">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandanabhishek&repo=Data-Structures)](https://github.com/nandanabhishek/Data-Structures)
+  </p>
