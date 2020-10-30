@@ -21,5 +21,5 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&count_private=true&theme=radical&line_height=27">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanabhishek&count_private=true&theme=yeblu&hide_border=false&hide=HTML,CSS">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanabhishek&count_private=true&theme=yeblu&hide_border=false&langs_count=7&hide=HTML,CSS">
 </p>
