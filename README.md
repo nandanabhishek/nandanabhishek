@@ -1,7 +1,4 @@
 <h1 align="center"> Abhishek Nandan </h1>
-<div class="text-blue">
-  <h1 align="center"> Abhishek Nandan </h1>
-</div>
 
 <br>
 
@@ -29,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nandanabhishek&repo=Data-Structures)](https://github.com/nandanabhishek/Data-Structures)
+  <a href="https://github.com/nandanabhishek/Data-Structures"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nandanabhishek&repo=Data-Structures"></a>
   </p>
