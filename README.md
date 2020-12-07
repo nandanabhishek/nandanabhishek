@@ -27,6 +27,4 @@
 
 <br>
 <br>
-<a href="https://dev.to/nandanabhishek">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Nandan's DEV Profile" height="30" width="30">
-</a>
+[![Abhishek Nandan's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/nandanabhishek)
