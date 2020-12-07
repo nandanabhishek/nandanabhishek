@@ -1,4 +1,7 @@
 <h1 align="center"> Abhishek Nandan </h1>
+<a href="https://dev.to/nandanabhishek">
+  <i class="fab fa-dev" title="nandanabhishek's DEV Profile"></i>
+</a>
 
 <br>
 
@@ -24,9 +27,3 @@
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanabhishek&count_private=true&theme=yeblu&hide_border=false&langs_count=10&hide=HTML,CSS,CMake,Makefile">
 </p>
 
-
-<br>
-<br>
-<a href="https://dev.to/nandanabhishek">
-  <i class="fab fa-dev" title="nandanabhishek's DEV Profile"></i>
-</a>
