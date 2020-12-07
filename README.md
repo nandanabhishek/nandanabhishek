@@ -1,7 +1,7 @@
-<h1 align="center"> Abhishek Nandan </h1>
-<a href="https://dev.to/nandanabhishek">
+<h1 align="center"> Abhishek Nandan <a href="https://dev.to/nandanabhishek">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abhishek Nandan's DEV Profile" height="30" width="30">
-</a>
+</a></h1>
+
 
 <br>
 
