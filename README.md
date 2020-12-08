@@ -20,7 +20,6 @@
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=nandanabhishek&show_icons=true&count_private=true&theme=radical&line_height=40">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/? 
-   username=nandanabhishek&count_private=true&theme=yeblu&hide_border=false&langs_count=10&hide=HTML,CSS,CMake,Makefile">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=nandanabhishek&count_private=true&theme=yeblu&hide_border=false&langs_count=10&hide=HTML,CSS,CMake,Makefile">  
 </p>
 
